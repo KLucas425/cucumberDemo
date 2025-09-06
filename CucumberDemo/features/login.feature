@@ -14,5 +14,5 @@ Feature: User Login
 
     Examples: 
       | email                     | password |
-      | testcba3@gmail.com        | test123  |
+      | testcba3@gmail.com        | test1234  |
       | testcba4@gmail.com        | test@123 |
