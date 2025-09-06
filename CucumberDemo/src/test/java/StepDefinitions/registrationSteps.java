@@ -27,6 +27,7 @@ public class registrationSteps {
 	@Given("user navigates to registration page")
 	public void user_navigates_to_registration_page() {
 
+		//Just testing to see if I can edit files in my repo.
 		hp = new homePage(baseClass.getDriver());
 		hp.clickMyAcct();
 		hp.clickRegBtn();
